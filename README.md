@@ -200,6 +200,31 @@ With the backend running, interactive Swagger documentation is available at:
 
 ---
 
+## 📸 Screenshots
+
+**Login Page**
+![Login Page](https://raw.githubusercontent.com/Noerz/Task-Management-System-TestKanggo/main/Frontend/screenshot/LoginPage.png)
+
+**Registration Page**
+![Registration Page](https://raw.githubusercontent.com/Noerz/Task-Management-System-TestKanggo/main/Frontend/screenshot/RegistrasiPage.png)
+
+**Dashboard Page**
+![Dashboard Page](https://raw.githubusercontent.com/Noerz/Task-Management-System-TestKanggo/main/Frontend/screenshot/DashboardPage.png)
+
+**My Task Page**
+![My Task Page](https://raw.githubusercontent.com/Noerz/Task-Management-System-TestKanggo/main/Frontend/screenshot/MyTaskPage.png)
+
+**Create Task Modal**
+![Create Task Modal](https://raw.githubusercontent.com/Noerz/Task-Management-System-TestKanggo/main/Frontend/screenshot/CreateTaskModal.png)
+
+**Detail Task Page**
+![Detail Task Page](https://raw.githubusercontent.com/Noerz/Task-Management-System-TestKanggo/main/Frontend/screenshot/DetailTaskPage.png)
+
+**Calendar Page**
+![Calendar Page](https://raw.githubusercontent.com/Noerz/Task-Management-System-TestKanggo/main/Frontend/screenshot/CalenderPage.png)
+
+---
+
 <div align="center">
 
 Made with ❤️ using TypeScript, React, and Node.js
