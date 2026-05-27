@@ -13,6 +13,10 @@ A modern, high-performance fullstack TypeScript application for personal product
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
+<br/>
+
+### 🌐 [Live Demo → task-management-mustaqim.netlify.app](https://task-management-mustaqim.netlify.app/)
+
 </div>
 
 ---
