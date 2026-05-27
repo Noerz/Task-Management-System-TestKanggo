@@ -35,7 +35,7 @@ function App() {
               <Route path="/tasks/:id" element={<TaskDetailPage />} />
               <Route path="/calendar" element={<CalendarPage />} />
               <Route path="/projects" element={<div>Projects Placeholder</div>} />
-              <Route path="/settings" element={<div>Settings Placeholder</div>} />
+              {/* <Route path="/settings" element={<div>Settings Placeholder</div>} /> */}
               <Route path="/support" element={<div>Support Placeholder</div>} />
             </Route>
           </Route>

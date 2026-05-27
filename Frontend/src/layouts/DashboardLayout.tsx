@@ -212,14 +212,14 @@ export const DashboardLayout: React.FC = () => {
             <CalendarIcon size={20} />
             Calendar
           </NavLink>
-          <NavLink 
+          {/* <NavLink 
             to="/settings" 
             className="nav-item"
             onClick={() => setIsMobileMenuOpen(false)}
           >
             <Settings size={20} />
             Settings
-          </NavLink>
+          </NavLink> */}
           <NavLink 
             to="/" 
             className="nav-item" 
